@@ -1,0 +1,10 @@
+# Have a good day!
+
+User-agent: *
+Disallow: /moderation
+Disallow: /settings
+Disallow: /post/submit
+Disallow: /post/edit/*
+Disallow: /panel
+Disallow: /email
+Sitemap: https://outsiteurl.test/sitemap.xml

@@ -1,0 +1,6 @@
+.next/
+node_modules/
+.snapshots/
+*.min.js
+__tests__/
+*.test.js
